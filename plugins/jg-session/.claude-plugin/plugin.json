@@ -5,13 +5,13 @@
   "description": "A pair of slash commands that maintain context between Claude Code sessions through automatic session documentation. Eliminates the need to manually explain what you were working on when starting a new session.",
   "author": {
     "name": "Jason G.",
-    "url": "https://github.com/jasongilman/awesome-cc-workflows"
+    "url": "https://github.com/jasongilman/practical-cc"
   },
   "license": "CC-BY-4.0",
-  "homepage": "https://github.com/jasongilman/awesome-cc-workflows/tree/main/plugins/jg-session",
+  "homepage": "https://github.com/jasongilman/practical-cc/tree/main/plugins/jg-session",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jasongilman/awesome-cc-workflows",
+    "url": "https://github.com/jasongilman/practical-cc",
     "directory": "plugins/jg-session"
   },
   "keywords": [

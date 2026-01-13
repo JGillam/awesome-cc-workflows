@@ -34,7 +34,7 @@ Start-of-session context loader that:
 
 ## Installation
 
-This plugin is installed by registering the awesome-cc-workflows marketplace in Claude Code. Once registered, the tidyup and tidydown commands become available automatically.
+This plugin is installed by registering the practical-cc marketplace in Claude Code. Once registered, the tidyup and tidydown commands become available automatically.
 
 For detailed installation instructions, see the [Claude Code Plugin Documentation](https://code.claude.com/docs/en/plugins).
 
@@ -102,7 +102,7 @@ The tidyup command integrates with your git workflow:
 
 **Issue**: `/tidyup` or `/tidydown` not recognized
 
-**Solution**: Ensure the awesome-cc-workflows marketplace is registered in Claude Code and the plugin is enabled
+**Solution**: Ensure the practical-cc marketplace is registered in Claude Code and the plugin is enabled
 
 **Issue**: Session summary not found
 
@@ -125,4 +125,4 @@ This plugin is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by
 
 ## Author
 
-Created by Jason G. as part of the [awesome-cc-workflows](https://github.com/jasongilman/awesome-cc-workflows) marketplace.
+Created by Jason G. as part of the [practical-cc](https://github.com/jasongilman/practical-cc) marketplace.

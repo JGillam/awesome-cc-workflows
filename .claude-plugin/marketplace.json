@@ -1,11 +1,11 @@
 {
-  "name": "awesome-cc-workflows",
+  "name": "practical-cc",
   "version": "1.0.0",
   "description": "A curated marketplace of Claude Code plugins and workflows to enhance your AI-assisted development experience",
   "author": "Jason G.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jasongilman/awesome-cc-workflows"
+    "url": "https://github.com/jasongilman/practical-cc"
   },
   "license": "CC-BY-4.0",
   "plugins": [

@@ -1,4 +1,4 @@
-# Awesome Claude Code Workflows
+# Practical Claude Code
 
 A curated marketplace of Claude Code plugins, workflows, and configurations to enhance your AI-assisted development experience.
 
