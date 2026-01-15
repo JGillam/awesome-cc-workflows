@@ -1,6 +1,5 @@
 {
-  "id": "jg-session",
-  "name": "Session Management Plugin",
+  "name": "session-management",
   "version": "1.0.0",
   "description": "A pair of slash commands that maintain context between Claude Code sessions through automatic session documentation. Eliminates the need to manually explain what you were working on when starting a new session.",
   "author": {

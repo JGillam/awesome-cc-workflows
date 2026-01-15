@@ -1,36 +1,25 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "practical-cc",
-  "version": "1.0.0",
-  "description": "A curated marketplace of Claude Code plugins and workflows to enhance your AI-assisted development experience",
-  "author": "Jason G.",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jasongilman/practical-cc"
+  "owner": {
+    "name": "Jason G.",
+    "email": "jason@example.com"
   },
-  "license": "CC-BY-4.0",
+  "metadata": {
+    "description": "A curated marketplace of Claude Code plugins and workflows to enhance your AI-assisted development experience",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
   "plugins": [
     {
-      "id": "jg-session",
       "name": "session-management",
       "description": "Maintain context and continuity between Claude Code sessions with tidyup/tidydown commands",
       "version": "1.0.0",
-      "path": "./plugins/jg-session",
-      "author": "Jason G.",
-      "tags": ["session", "workflow", "productivity", "context-management"]
+      "source": "./plugins/jg-session",
+      "author": {
+        "name": "Jason G."
+      },
+      "category": "productivity"
     }
-  ],
-  "categories": [
-    {
-      "id": "workflow",
-      "name": "Workflow & Productivity",
-      "description": "Tools to enhance development workflows and maintain productivity"
-    },
-    {
-      "id": "context",
-      "name": "Context Management",
-      "description": "Tools for managing and preserving development context"
-    }
-  ],
-  "marketplaceVersion": "1.0.0",
-  "minimumClaudeCodeVersion": "1.0.0"
+  ]
 }
