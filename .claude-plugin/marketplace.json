@@ -11,7 +11,7 @@
   "plugins": [
     {
       "id": "jg-session",
-      "name": "Session Management",
+      "name": "session-management",
       "description": "Maintain context and continuity between Claude Code sessions with tidyup/tidydown commands",
       "version": "1.0.0",
       "path": "./plugins/jg-session",
